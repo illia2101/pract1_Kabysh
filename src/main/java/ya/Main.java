@@ -1,5 +1,7 @@
 package ya;
 /*
+Author: Kabysh Illia
+File: practice1.java
 Завдання 1: Animal → Dog
 
 Створіть клас Animal з полем name та методом toString().
